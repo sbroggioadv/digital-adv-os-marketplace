@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'digital-adv-os carregado — minutas sujeitas à revisão do advogado; revisão final pela skill revisao-final-digital'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
